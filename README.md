@@ -35,8 +35,8 @@ The project utilizes various Python libraries for data manipulation, analysis, a
 
 The repository includes the following files and folders:
 - `data/`: Contains the CSV dataset used for the project
-- `notebooks/`: Contains Jupyter notebooks used for data exploration, preprocessing, and clustering
-- `docs/`: Contains the management briefing document presenting the project findings and recommendations
+- `notebooks/`: Contains Jupyter notebook used for data exploration, preprocessing, and clustering
+- `docs/`: Contains the project instructions and the project paper / management briefing document presenting the project findings and recommendations
 - `README.md`: Provides an overview of the project, its objectives, methodology, and key findings
 
 This project demonstrates the application of data analytics and machine learning techniques for customer segmentation in an e-commerce context. It showcases the use of Python and popular data science libraries for data preprocessing, clustering, and visualization, and presents the results in a management-friendly format.
