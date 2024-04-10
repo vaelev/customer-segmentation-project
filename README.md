@@ -35,7 +35,7 @@ The project utilizes various Python libraries for data manipulation, analysis, a
 
 The repository includes the following files and folders:
 - `data/`: Contains the CSV dataset used for the project
-- `notebooks/`: Contains Jupyter notebook used for data exploration, preprocessing, and clustering
+- `notebooks/`: Contains Jupyter notebook used for data exploration, preprocessing, and clustering (does not include the code of the first iteration with full k-Means implementation but screenshots of it are part of the project paper)
 - `docs/`: Contains the project instructions and the project paper / management briefing document presenting the project findings and recommendations
 - `README.md`: Provides an overview of the project, its objectives, methodology, and key findings
 
